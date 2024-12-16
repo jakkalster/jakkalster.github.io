@@ -1,2 +1,3 @@
-# jakkalster.github.io
-Minimal blog for personal use
+Personal blog
+
+<i>forked from https://github.com/onepase </i>
