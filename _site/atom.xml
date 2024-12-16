@@ -4,13 +4,25 @@
  <title>Minimal blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-12-16T13:05:02+08:00</updated>
+ <updated>2024-12-16T13:06:41+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>jakkalster</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Closing old chapter and open a new one</title>
+   <link href="http://localhost:4000/old-new-chapter/"/>
+   <updated>2024-12-16T08:00:00+08:00</updated>
+   <id>http://localhost:4000/migrating</id>
+   <content type="html">&lt;p&gt;Dulu saya ada blog di wordpress.com, tapi itulah jarang update sebab tidak tau apa mau type content. Saya plan mau delete blog di wordpress 
+dan pakai github pages saja sambil-sambil belajar git dengan markdown.&lt;/p&gt;
+
+&lt;p&gt;Sebelum lupa, merry early christmas from me&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Minimal blog</title>
