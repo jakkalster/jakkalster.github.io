@@ -20,8 +20,8 @@
             "id": "http://localhost:4000/minimal-blog/",
             "title": "Minimal blog",
             "summary": null,
-            "content_text": "This is a learning blog",
-            "content_html": "<p>This is a learning blog</p>",
+            "content_text": "This will be a place for me to write about stuff that i learn, random thoughts and everything in between. Content will be mixed between bahasa and english.",
+            "content_html": "<p>This will be a place for me to write about stuff that i learn, random thoughts and everything in between. Content will be mixed between bahasa and english.</p>",
             "url": "http://localhost:4000/minimal-blog/",
             
             

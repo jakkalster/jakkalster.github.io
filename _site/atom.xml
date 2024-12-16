@@ -4,7 +4,7 @@
  <title>Minimal blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-12-16T10:05:32+08:00</updated>
+ <updated>2024-12-16T13:05:02+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>jakkalster</name>
@@ -17,7 +17,7 @@
    <link href="http://localhost:4000/minimal-blog/"/>
    <updated>2024-12-16T08:00:00+08:00</updated>
    <id>http://localhost:4000/blog-1</id>
-   <content type="html">&lt;p&gt;This is a learning blog&lt;/p&gt;
+   <content type="html">&lt;p&gt;This will be a place for me to write about stuff that i learn, random thoughts and everything in between. Content will be mixed between bahasa and english.&lt;/p&gt;
 </content>
  </entry>
  
