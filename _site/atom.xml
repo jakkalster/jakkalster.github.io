@@ -4,13 +4,26 @@
  <title>Minimal blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-12-16T13:06:41+08:00</updated>
+ <updated>2026-02-23T16:30:07+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>jakkalster</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Updating proxmox machine</title>
+   <link href="http://localhost:4000/proxmox-ram/"/>
+   <updated>2026-02-23T08:00:00+08:00</updated>
+   <id>http://localhost:4000/upgrade-proxmox</id>
+   <content type="html">&lt;p&gt;Time to upgrade my proxmox pc to 16gb from 8gb. This is just so i can play around more with containers and vm’s. 
+Bought second hand from shoppee.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/ram3.jpg&quot; alt=&quot;proxmox&quot; /&gt;
+&lt;img src=&quot;/assets/images/ram5.jpg&quot; alt=&quot;ram&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Closing old chapter and open a new one</title>

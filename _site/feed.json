@@ -17,6 +17,25 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/proxmox-ram/",
+            "title": "Updating proxmox machine",
+            "summary": null,
+            "content_text": "Time to upgrade my proxmox pc to 16gb from 8gb. This is just so i can play around more with containers and vm’s. Bought second hand from shoppee.",
+            "content_html": "<p>Time to upgrade my proxmox pc to 16gb from 8gb. This is just so i can play around more with containers and vm’s. Bought second hand from shoppee.</p><p><img src=\"/assets/images/ram3.jpg\" alt=\"proxmox\" /><img src=\"/assets/images/ram5.jpg\" alt=\"ram\" /></p>",
+            "url": "http://localhost:4000/proxmox-ram/",
+            
+            
+            
+            
+            
+            "date_published": "2026-02-23T08:00:00+08:00",
+            "date_modified": "2026-02-23T08:00:00+08:00",
+            
+                "author": "jakkalster"
+            
+        },
+    
+        {
             "id": "http://localhost:4000/old-new-chapter/",
             "title": "Closing old chapter and open a new one",
             "summary": null,
